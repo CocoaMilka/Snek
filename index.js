@@ -1,3 +1,5 @@
+// Code followed from this tutorial: https://www.youtube.com/watch?v=7Azlj0f9vas
+
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
 
